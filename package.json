@@ -20,7 +20,7 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.3",
     "libcipm": "^3.0.3",
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "tar": "^4.4.8"
   }
 }
